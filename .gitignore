@@ -1,3 +1,4 @@
 *.npy
 /dog_images
 /people_images
+.ipynb_checkpoints
